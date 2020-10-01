@@ -8,6 +8,7 @@ public class CurrencyFormat {
         String currencyUS = numberUS.format(no);
         System.out.println("US: "+currencyUS);
 
+
         NumberFormat numberIN = NumberFormat.getCurrencyInstance(new Locale("en","IN"));
         String currencyIN = numberIN.format(no);
         System.out.println("IN: "+currencyIN);
