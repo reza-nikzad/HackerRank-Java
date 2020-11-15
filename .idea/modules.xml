@@ -3,16 +3,25 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Anagrams/Anagrams.iml" filepath="$PROJECT_DIR$/Anagrams/Anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigInteger/BigInteger.iml" filepath="$PROJECT_DIR$/BigInteger/BigInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/CurrencyFormat/CurrencyFormat.iml" filepath="$PROJECT_DIR$/CurrencyFormat/CurrencyFormat.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRank-Java.iml" filepath="$PROJECT_DIR$/HackerRank-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java1DArray/Java1DArray.iml" filepath="$PROJECT_DIR$/Java1DArray/Java1DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java1DArray2/Java1DArray2.iml" filepath="$PROJECT_DIR$/Java1DArray2/Java1DArray2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java2DArray/Java2DArray.iml" filepath="$PROJECT_DIR$/Java2DArray/Java2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaArrayList/JavaArrayList.iml" filepath="$PROJECT_DIR$/JavaArrayList/JavaArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBigDecimal/JavaBigDecimal.iml" filepath="$PROJECT_DIR$/JavaBigDecimal/JavaBigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPrimalityTest/JavaPrimalityTest.iml" filepath="$PROJECT_DIR$/JavaPrimalityTest/JavaPrimalityTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRegex/JavaRegex.iml" filepath="$PROJECT_DIR$/JavaRegex/JavaRegex.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRegex2/JavaRegex2.iml" filepath="$PROJECT_DIR$/JavaRegex2/JavaRegex2.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStringTokens/JavaStringTokens.iml" filepath="$PROJECT_DIR$/JavaStringTokens/JavaStringTokens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSubarray/JavaSubarray.iml" filepath="$PROJECT_DIR$/JavaSubarray/JavaSubarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatterSyntaxChecker/PatterSyntaxChecker.iml" filepath="$PROJECT_DIR$/PatterSyntaxChecker/PatterSyntaxChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringIntro/StringIntro.iml" filepath="$PROJECT_DIR$/StringIntro/StringIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringReverse/StringReverse.iml" filepath="$PROJECT_DIR$/StringReverse/StringReverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/SubString/SubString.iml" filepath="$PROJECT_DIR$/SubString/SubString.iml" />
       <module fileurl="file://$PROJECT_DIR$/SubStringComparison/SubStringComparison.iml" filepath="$PROJECT_DIR$/SubStringComparison/SubStringComparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TagContentExt/TagContentExt.iml" filepath="$PROJECT_DIR$/TagContentExt/TagContentExt.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidUsrRegex/ValidUsrRegex.iml" filepath="$PROJECT_DIR$/ValidUsrRegex/ValidUsrRegex.iml" />
     </modules>
   </component>
